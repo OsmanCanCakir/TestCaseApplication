@@ -1,0 +1,12 @@
+C:\Users\Osman Can\source\repos\TestCases\TestCases.Domain\bin\Debug\net6.0\TestCases.Domain.deps.json
+C:\Users\Osman Can\source\repos\TestCases\TestCases.Domain\bin\Debug\net6.0\TestCases.Domain.dll
+C:\Users\Osman Can\source\repos\TestCases\TestCases.Domain\bin\Debug\net6.0\TestCases.Domain.pdb
+C:\Users\Osman Can\source\repos\TestCases\TestCases.Domain\obj\Debug\net6.0\TestCases.Domain.csproj.AssemblyReference.cache
+C:\Users\Osman Can\source\repos\TestCases\TestCases.Domain\obj\Debug\net6.0\TestCases.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osman Can\source\repos\TestCases\TestCases.Domain\obj\Debug\net6.0\TestCases.Domain.AssemblyInfoInputs.cache
+C:\Users\Osman Can\source\repos\TestCases\TestCases.Domain\obj\Debug\net6.0\TestCases.Domain.AssemblyInfo.cs
+C:\Users\Osman Can\source\repos\TestCases\TestCases.Domain\obj\Debug\net6.0\TestCases.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Osman Can\source\repos\TestCases\TestCases.Domain\obj\Debug\net6.0\TestCases.Domain.dll
+C:\Users\Osman Can\source\repos\TestCases\TestCases.Domain\obj\Debug\net6.0\refint\TestCases.Domain.dll
+C:\Users\Osman Can\source\repos\TestCases\TestCases.Domain\obj\Debug\net6.0\TestCases.Domain.pdb
+C:\Users\Osman Can\source\repos\TestCases\TestCases.Domain\obj\Debug\net6.0\ref\TestCases.Domain.dll
